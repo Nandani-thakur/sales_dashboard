@@ -23,8 +23,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start:prod": "NODE_OPTIONS=--max-old-space-size=4096 serve -s build"
   },
   "eslintConfig": {
     "extends": [
@@ -48,5 +47,9 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "depcheck": "^1.4.7",
     "serve": "^14.2.3"
-  }
+  },
+  "description": "<<<<<<< HEAD\r # Getting Started with Create React App",
+  "main": "index.js",
+  "author": "nandani thakur",
+  "license": "ISC"
 }
