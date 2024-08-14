@@ -1,0 +1,23 @@
+.category-graph-container {
+    
+    padding: 20px;
+    border-radius: 8px;
+    
+    margin: 20px 0; 
+    max-width: 300px; 
+    margin-left: auto;
+    margin-right: auto; 
+  }
+  
+  .graph-title {
+    margin-bottom: 15px; 
+    font-size: 1.25rem; 
+    color: #333;
+  }
+  
+  .chart-wrapper {
+    position: relative;
+    height: 260px; 
+    width: 100%;
+  }
+  
